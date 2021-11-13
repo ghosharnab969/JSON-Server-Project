@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Welcome to the new blog.",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat obcaecati quas explicabo sed molestias non aspernatur enim, nam amet recusandae harum dolorum velit, impedit vel nostrum ex. Fuga, iure sequi. Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat obcaecati quas explicabo sed molestias non aspernatur enim, nam amet recusandae harum dolorum velit, impedit vel nostrum ex. Fuga, iure sequi. Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat obcaecati quas explicabo sed molestias non aspernatur enim, nam amet recusandae harum dolorum velit, impedit vel nostrum ex. Fuga, iure sequi. Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat obcaecati quas explicabo sed molestias non aspernatur enim, nam amet recusandae harum dolorum velit, impedit vel nostrum ex. Fuga, iure sequi.",
+      "likes": 30
+    },
+    {
+      "id": 2,
+      "title": "How to become a Net Ninja?",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat obcaecati quas explicabo sed molestias non aspernatur enim, nam amet recusandae harum dolorum velit, impedit vel nostrum ex. Fuga, iure sequi. Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat obcaecati quas explicabo sed molestias non aspernatur enim, nam amet recusandae harum dolorum velit, impedit vel nostrum ex. Fuga, iure sequi. Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat obcaecati quas explicabo sed molestias non aspernatur enim, nam amet recusandae harum dolorum velit, impedit vel nostrum ex. Fuga, iure sequi. Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat obcaecati quas explicabo sed molestias non aspernatur enim, nam amet recusandae harum dolorum velit, impedit vel nostrum ex. Fuga, iure sequi.",
+      "likes": 15
+    },
+    {
+      "id": 3,
+      "title": "Vue course comming soon!",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat obcaecati quas explicabo sed molestias non aspernatur enim, nam amet recusandae harum dolorum velit, impedit vel nostrum ex. Fuga, iure sequi. Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat obcaecati quas explicabo sed molestias non aspernatur enim, nam amet recusandae harum dolorum velit, impedit vel nostrum ex. Fuga, iure sequi. Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat obcaecati quas explicabo sed molestias non aspernatur enim, nam amet recusandae harum dolorum velit, impedit vel nostrum ex. Fuga, iure sequi. Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat obcaecati quas explicabo sed molestias non aspernatur enim, nam amet recusandae harum dolorum velit, impedit vel nostrum ex. Fuga, iure sequi.",
+      "likes": 28
+    },
+    {
+      "id": 4,
+      "title": "Mario Kart live review",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat obcaecati quas explicabo sed molestias non aspernatur enim, nam amet recusandae harum dolorum velit, impedit vel nostrum ex. Fuga, iure sequi. Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat obcaecati quas explicabo sed molestias non aspernatur enim, nam amet recusandae harum dolorum velit, impedit vel nostrum ex. Fuga, iure sequi. Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat obcaecati quas explicabo sed molestias non aspernatur enim, nam amet recusandae harum dolorum velit, impedit vel nostrum ex. Fuga, iure sequi. Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat obcaecati quas explicabo sed molestias non aspernatur enim, nam amet recusandae harum dolorum velit, impedit vel nostrum ex. Fuga, iure sequi.",
+      "likes": 23
+    }
+  ],
+  "polls": [
+    {
+      "id": 1,
+      "question": "Do you prefer Vue or React",
+      "answer A": "Vue",
+      "answer B": "React"
+    }
+  ]
+}
